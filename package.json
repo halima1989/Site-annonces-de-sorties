@@ -1,0 +1,29 @@
+{
+  "name": "sites-sorties-jwt-token",
+  "version": "1.0.0",
+  "description": "app api sorties et voyages ",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halima1989/app-sorties-et-voyages-.git"
+  },
+  "author": "halima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halima1989/app-sorties-et-voyages-/issues"
+  },
+  "homepage": "https://github.com/halima1989/app-sorties-et-voyages-#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bson": "^6.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.5.0",
+    "nodemon": "^3.1.0"
+  }
+}
